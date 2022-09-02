@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx67ca9895e7db4b2f",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "a0c828ae9ed28765579ec66927d5822c",
 
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "16OLGhjG65np7Q87-jAJuok9wdPa7cdtsTIAw-EL4Tk",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "",
+    CALLBACK_TEMPLATE_ID: "16OLGhjG65np7Q87-jAJuok9wdPa7cdtsTIAw-EL4Tk",
 
 
     /**
@@ -24,7 +24,7 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '老婆0', id: "1hxOO6VskYv0Kuf-y你懂的,填错狗头打烂VRMpuXhk"}, 
+      {name: '老婆0', id: "ouLUm6K_guxiKvncI23KIGlrLEFE"}, 
       {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
@@ -41,9 +41,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "安徽省",
     // 所在城市
-    CITY: "惠州",
+    CITY: "亳州市",
 
     /** 重要节日相关 */
 
